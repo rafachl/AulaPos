@@ -6,7 +6,7 @@
   Sem qualificador: acesso somente dentro do mesmo pacote.
 4: d
 5: 
-a: V
+a: F
 b: F
 c: V
 d: V
